@@ -1,8 +1,5 @@
 #home {
     background-color: #131241!important;
   }
-.css-1x7fyij, .css-1q3o0i2, .css-1l1sbza {color:#fff!important;}
-.css-1xhki3j {color:#fff!important;}
-.sidebar-section-disabled-text {color:#fff!important;}
-#leaderboard {color:#fff!important;}
 
+#leaderboard, .sidebar-section-title {color:#fff!important;}
